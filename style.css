@@ -9,8 +9,8 @@
 }
 
 header {
-    background-color: rgb(69, 255, 22);
-    color: rgb(40, 75, 32);
+    background-color: salmon;
+    color: rgb(107, 55, 49);
     padding: 20px;
     font-family: "Montenegrin Gothic One", serif;
 
@@ -26,5 +26,13 @@ p {
 
 h1 {
     text-align: center;
-    font-size: 4rem;
+    font-size: 3rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    gap: 20px;
 }
